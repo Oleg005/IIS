@@ -1,0 +1,119 @@
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/999/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/home/mint/.Xauthority
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting XDG_CONFIG_DIRS=/etc/xdg/xdg-cinnamon:/etc/xdg
+dbus-update-activation-environment: setting XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0
+dbus-update-activation-environment: setting DESKTOP_SESSION=cinnamon
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+dbus-update-activation-environment: setting PWD=/home/mint
+dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=cinnamon
+dbus-update-activation-environment: setting LOGNAME=mint
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/999/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting XAUTHORITY=/home/mint/.Xauthority
+dbus-update-activation-environment: setting XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/mint
+dbus-update-activation-environment: setting GDM_LANG=en
+dbus-update-activation-environment: setting HOME=/home/mint
+dbus-update-activation-environment: setting IM_CONFIG_PHASE=1
+dbus-update-activation-environment: setting LANG=C.UTF-8
+dbus-update-activation-environment: setting XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+dbus-update-activation-environment: setting XDG_SESSION_CLASS=user
+dbus-update-activation-environment: setting USER=mint
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting SHLVL=1
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/999
+dbus-update-activation-environment: setting GTK3_MODULES=xapp-gtk3-module
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/cinnamon:/usr/share/gnome:/home/mint/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share
+dbus-update-activation-environment: setting PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+dbus-update-activation-environment: setting GDMSESSION=cinnamon
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/999/bus
+dbus-update-activation-environment: setting _=/usr/bin/dbus-update-activation-environment
+** Message: 09:20:16.169: couldn't access control socket: /run/user/999/keyring/control: No such file or directory
+** Message: 09:20:16.173: couldn't access control socket: /run/user/999/keyring/control: No such file or directory
+** Message: 09:20:16.174: couldn't access control socket: /run/user/999/keyring/control: No such file or directory
+** Message: 09:20:17.402: Existing monitor config (/home/mint/.config/cinnamon-monitors.xml) not found at startup. Looking for legacy configuration (monitors.xml)
+[cinnamon-settings-daemon-smartcard] Failed to start: no suitable smartcard driver could be found
+[cinnamon-settings-daemon-smartcard] Failed to start: no suitable smartcard driver could be found
+
+** (csd-color:1573): WARNING **: 09:20:18.964: failed to get edid: unable to get EDID for output
+
+** (csd-color:1573): WARNING **: 09:20:19.018: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+Cinnamon warning: Software rendering detected: llvmpipe (LLVM 11.0.0, 256 bits)
+Cjs-Message: 09:20:23.729: Profiler is disabled. Not setting up signals.
+Clutter-Message: 09:20:24.116: Sync method: PRESENTATION TIME
+
+(nm-applet:1762): libnotify-WARNING **: 09:20:26.398: Failed to connect to proxy
+
+(nm-applet:1762): nm-applet-WARNING **: 09:20:26.421: Failed to show notification: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.Notifications” on object at path /org/freedesktop/Notifications
+Cjs-Message: 09:20:26.735: JS LOG: About to start Cinnamon
+Cjs-Message: 09:20:26.735: JS LOG: ACTIVATING SOFTWARE RENDERING
+Cjs-Message: 09:20:26.746: JS LOG: [LookingGlass/error] Cinnamon Software Rendering mode enabled
+Cjs-Message: 09:20:27.783: JS LOG: [LookingGlass/info] Cinnamon.AppSystem.get_default() started in 1017 ms
+Cjs-Message: 09:20:27.844: JS LOG: [LookingGlass/info] loading user theme: /usr/share/themes/Mint-Y-Dark/cinnamon/cinnamon.css
+Cjs-Message: 09:20:27.930: JS LOG: [LookingGlass/info] added icon directory: /usr/share/themes/Mint-Y-Dark/cinnamon
+cinnamon-session[1423]: WARNING: t+12.65033s: Detected that screensaver has appeared on the bus
+Cjs-Message: 09:20:28.884: JS LOG: [LookingGlass/info] loaded at Fri Mar 17 2023 09:20:28 GMT+0000 (Coordinated Universal Time)
+Cjs-Message: 09:20:28.885: JS LOG: Cinnamon started at Fri Mar 17 2023 09:20:28 GMT+0000 (Coordinated Universal Time)
+Cjs-Message: 09:20:28.953: JS LOG: [LookingGlass/info] ExtensionSystem started in 4 ms
+Cjs-Message: 09:20:28.954: JS LOG: [LookingGlass/info] NaNms
+Cjs-Message: 09:20:28.954: JS LOG: [LookingGlass/info] SearchProviderManager started in 4 ms
+openGL version 4.5 detected (GL3 Cogl Driver)
+MetaSyncRing disabled: couldn't find required GL extensions, or the minimum safe openGL version was not met
+** Message: 09:20:29.244: nemo-desktop: session is cinnamon, establishing proxy
+Cjs-Message: 09:20:29.248: JS LOG: [LookingGlass/info] Installing settings for show-desktop@cinnamon.org
+Cjs-Message: 09:20:29.252: JS LOG: [LookingGlass/info] Settings successfully installed for show-desktop@cinnamon.org
+Cjs-Message: 09:20:29.341: JS LOG: [LookingGlass/info] Loaded applet show-desktop@cinnamon.org in 166 ms
+Cjs-Message: 09:20:29.360: JS LOG: [LookingGlass/info] Role locked: tray
+Cjs-Message: 09:20:29.372: JS LOG: [LookingGlass/info] Loaded applet systray@cinnamon.org in 29 ms
+Cjs-Message: 09:20:29.517: JS LOG: [LookingGlass/info] Loaded applet keyboard@cinnamon.org in 145 ms
+St-Message: 09:20:29.523: cogl npot texture sizes SUPPORTED
+Cjs-Message: 09:20:29.570: JS LOG: [LookingGlass/info] Loaded applet removable-drives@cinnamon.org in 52 ms
+Cjs-Message: 09:20:29.592: JS LOG: [LookingGlass/info] Installing settings for printers@cinnamon.org
+Cjs-Message: 09:20:29.593: JS LOG: [LookingGlass/info] Settings successfully installed for printers@cinnamon.org
+Cjs-Message: 09:20:29.686: JS LOG: [LookingGlass/info] Loaded applet printers@cinnamon.org in 115 ms
+Cjs-Message: 09:20:29.700: JS LOG: [LookingGlass/info] Installing settings for notifications@cinnamon.org
+Cjs-Message: 09:20:29.701: JS LOG: [LookingGlass/info] Settings successfully installed for notifications@cinnamon.org
+Cjs-Message: 09:20:29.716: JS LOG: [LookingGlass/info] Role locked: notifications
+Cjs-Message: 09:20:29.755: JS LOG: [LookingGlass/info] Loaded applet notifications@cinnamon.org in 69 ms
+Cjs-Message: 09:20:29.884: JS LOG: [LookingGlass/info] Installing settings for favorites@cinnamon.org
+Cjs-Message: 09:20:29.884: JS LOG: [LookingGlass/info] Settings successfully installed for favorites@cinnamon.org
+Cjs-Message: 09:20:29.903: JS LOG: [LookingGlass/info] Loaded applet favorites@cinnamon.org in 148 ms
+Cjs-Message: 09:20:29.921: JS LOG: [LookingGlass/info] Installing settings for calendar@cinnamon.org
+Cjs-Message: 09:20:29.922: JS LOG: [LookingGlass/info] Settings successfully installed for calendar@cinnamon.org
+Cjs-Message: 09:20:30.039: JS LOG: [LookingGlass/info] Loaded applet calendar@cinnamon.org in 136 ms
+Cjs-Message: 09:20:30.056: JS LOG: [LookingGlass/info] Loaded applet xapp-status@cinnamon.org in 16 ms
+Cjs-Message: 09:20:30.092: JS LOG: [LookingGlass/info] Installing settings for power@cinnamon.org
+Cjs-Message: 09:20:30.093: JS LOG: [LookingGlass/info] Settings successfully installed for power@cinnamon.org
+Cjs-Message: 09:20:30.144: JS LOG: [LookingGlass/info] Loaded applet power@cinnamon.org in 86 ms
+Cjs-Message: 09:20:30.156: JS LOG: [LookingGlass/info] Installing settings for sound@cinnamon.org
+Cjs-Message: 09:20:30.158: JS LOG: [LookingGlass/info] Settings successfully installed for sound@cinnamon.org
+Cjs-Message: 09:20:30.249: JS LOG: [LookingGlass/info] Loaded applet sound@cinnamon.org in 105 ms
+Cjs-Message: 09:20:30.467: JS LOG: [LookingGlass/info] Installing settings for grouped-window-list@cinnamon.org
+Cjs-Message: 09:20:30.487: JS LOG: [LookingGlass/info] Settings successfully installed for grouped-window-list@cinnamon.org
+Cjs-Message: 09:20:30.576: JS LOG: [LookingGlass/info] Role locked: panellauncher
+Cjs-Message: 09:20:30.616: JS LOG: [LookingGlass/info] Loaded applet grouped-window-list@cinnamon.org in 366 ms
+Cjs-Message: 09:20:30.660: JS LOG: [LookingGlass/info] Adding XAppStatusIcon: nm-applet (:1.50/org/x/StatusIcon/Icon)
+
+** (csd-power:1595): CRITICAL **: 09:20:30.687: abs_to_percentage: assertion 'max > min' failed
+Cjs-Message: 09:20:31.010: JS LOG: [LookingGlass/info] Hiding XAppStatusIcon (we have an applet): nm-applet (:1.50/org/x/StatusIcon/Icon)
+Cjs-Message: 09:20:31.024: JS LOG: [LookingGlass/info] Installing settings for network@cinnamon.org
+Cjs-Message: 09:20:31.025: JS LOG: [LookingGlass/info] Settings successfully installed for network@cinnamon.org
+Cjs-Message: 09:20:31.059: JS LOG: [LookingGlass/info] Loaded applet network@cinnamon.org in 443 ms
+Cjs-Message: 09:20:31.130: JS LOG: [LookingGlass/info] Installing settings for menu@cinnamon.org
+Cjs-Message: 09:20:31.131: JS LOG: [LookingGlass/info] Settings successfully installed for menu@cinnamon.org
+Cjs-Message: 09:20:32.996: JS LOG: [LookingGlass/info] Loaded applet menu@cinnamon.org in 1937 ms
+Cjs-Message: 09:20:33.000: JS LOG: [LookingGlass/info] AppletManager started in 4110 ms
+Cjs-Message: 09:20:33.033: JS LOG: [LookingGlass/info] Cinnamon took 6297 ms to start
+Cjs-Message: 09:20:33.330: JS LOG: Unknown network device type, is 14
+
+** (csd-color:1573): WARNING **: 09:20:36.251: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:1573): WARNING **: 09:20:36.270: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+cinnamon-session[1423]: WARNING: t+22.67946s: Detected that screensaver has left the bus
+cinnamon-screensaver: no process found
+mate-screensaver: no process found
+light-locker: no process found
