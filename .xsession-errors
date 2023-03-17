@@ -117,3 +117,5 @@ cinnamon-session[1423]: WARNING: t+22.67946s: Detected that screensaver has left
 cinnamon-screensaver: no process found
 mate-screensaver: no process found
 light-locker: no process found
+cinnamon-session[1423]: WARNING: t+3808.86587s: Detected that screensaver has appeared on the bus
+cinnamon-session[1423]: WARNING: t+4706.22282s: Detected that screensaver has left the bus
